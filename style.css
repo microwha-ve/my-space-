@@ -1,0 +1,15 @@
+.Headings {
+    background-color: #406AFF;
+    margin-top: -65px;
+    padding: 20px;
+}
+
+.login-container {
+    max-width: 410px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: justify;
+}
